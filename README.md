@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/dlsnks7c3/image/upload/v1688152213/909b1160978647aeafb3aa08c42d506b_3__1_-removebg-preview_byjhzl.png" alt="Logo" width="200"/>
 </p>
 
-## <p align="center">FannahTechStore</p>
+## 
 
 ![Homepage](https://res.cloudinary.com/dq7kjds8s/image/upload/v1727120836/j7ymj7wqnuohp1bwgxev.png) ![Product Page](https://res.cloudinary.com/dq7kjds8s/image/upload/v1727121033/xvqvtrgpwh3vhyvwz18r.png) ![Checkout](https://res.cloudinary.com/dq7kjds8s/image/upload/v1727121034/mzdbu6eayyjn8f8qnhoz.png)
 
