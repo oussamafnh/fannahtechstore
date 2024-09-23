@@ -1,15 +1,9 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/your-username/your-repo/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
+![Logo](https://res.cloudinary.com/dlsnks7c3/image/upload/v1688152213/909b1160978647aeafb3aa08c42d506b_3__1_-removebg-preview_byjhzl.png)
 ---
 
 # E-Commerce Web Application
+![Homepage](https://res.cloudinary.com/dq7kjds8s/image/upload/v1727120836/j7ymj7wqnuohp1bwgxev.png) ![Product Page](https://res.cloudinary.com/dq7kjds8s/image/upload/v1727121033/xvqvtrgpwh3vhyvwz18r.png) ![Checkout](https://res.cloudinary.com/dq7kjds8s/image/upload/v1727121034/mzdbu6eayyjn8f8qnhoz.png)
 
 This project is a **Laravel-based** web application designed to facilitate the sale of electronic products online. The platform provides both users and administrators with essential functionalities for purchasing and managing products.
 
