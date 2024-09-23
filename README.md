@@ -66,7 +66,6 @@ To run this project locally, follow these steps:
 3. Install dependencies:
    ```bash
    composer install
-   npm install
    ```
 
 4. Set up your environment:
