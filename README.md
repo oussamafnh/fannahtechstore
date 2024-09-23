@@ -1,5 +1,6 @@
-
-![Logo](https://res.cloudinary.com/dlsnks7c3/image/upload/v1688152213/909b1160978647aeafb3aa08c42d506b_3__1_-removebg-preview_byjhzl.png)
+<p align="center">
+  <img src="https://res.cloudinary.com/dlsnks7c3/image/upload/v1688152213/909b1160978647aeafb3aa08c42d506b_3__1_-removebg-preview_byjhzl.png" alt="Logo" width="200"/>
+</p>
 ---
 
 # E-Commerce Web Application
