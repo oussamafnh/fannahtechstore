@@ -12,7 +12,7 @@ This project is a **Laravel-based** web application designed to facilitate the s
 
 The main objective of this project is to create an **e-commerce platform** that is user-friendly, secure, and scalable. It allows users to browse a catalog of electronic products, manage a shopping cart, and make secure purchases. Administrators have full control over product management and order processing.
 
-## Features
+## Features 
 
 ### User Features
 - **User Authentication**: Register, login, and manage profiles securely.
